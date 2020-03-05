@@ -1,3 +1,4 @@
+#WELCOME!
 New to the Breaking Good Project and GitHub? 
 
 You've come to the right place! This repository is your how-to guide for using GitHub. 
