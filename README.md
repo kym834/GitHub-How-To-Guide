@@ -1,4 +1,4 @@
-WELCOME!
+# WELCOME!
 
 New to the Breaking Good Project and GitHub? 
 
