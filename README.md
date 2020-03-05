@@ -1,3 +1,5 @@
+![WEBSITE-bg-horizontal-2000px-wide](https://user-images.githubusercontent.com/61669512/75952840-02d14b00-5f04-11ea-9731-67ab5d0d6610.png)
+
 New to the Breaking Good Project or GitHub? 
 
 You've come to the right place! 
